@@ -1,16 +1,19 @@
-# flutter_application_1
+📱 Projeto Flutter – Aplicativo de Tarefas com Calendário
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter como parte da ACQA (Avaliação Continuada de Questão Aberta).
+O projeto apresenta um sistema simples de login/cadastro local, uma tela de calendário interativo e uma lista de tarefas diárias, permitindo adicionar, remover e marcar tarefas como concluídas.
 
-## Getting Started
+🎨 Destaques do projeto:
 
-This project is a starting point for a Flutter application.
+Interface moderna com tema azul escuro e ciano
 
-A few resources to get you started if this is your first Flutter project:
+Ordenação automática de tarefas (pendentes primeiro, depois concluídas, em ordem alfabética)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Autenticação simulada localmente (sem Firebase)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Navegação entre telas com Navigator
+
+Código dividido em arquivos .dart bem estruturados
+
+👨‍💻 Desenvolvido por:
+Lucas Fernandes Martinez – RA: 5160439
